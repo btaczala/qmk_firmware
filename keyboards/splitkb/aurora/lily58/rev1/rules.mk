@@ -15,3 +15,4 @@
 
 # Although no rules are defined,
 # presence of this file is required for QMK to compile it.
+WPM_ENABLE = yes  # Enable word per minute counter
